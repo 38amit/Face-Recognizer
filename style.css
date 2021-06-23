@@ -1,0 +1,14 @@
+body {
+    color: rgb(233, 250, 3);
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+.heading {
+    width: 80%;
+    font-size: 20px;
+    }
+
+    .name_of_the_objects {
+        color: yellow;
+    }
